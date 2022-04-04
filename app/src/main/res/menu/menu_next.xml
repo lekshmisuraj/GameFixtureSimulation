@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--
+      ~ Copyright ThinkRite, Inc. 2017.  All Rights reserved.
+      ~ The source code for this program is not published or otherwise
+      ~ divested of its trade secrets, irrespective of what has been
+      ~ deposited with the U.S. Copyright office.
+      -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/next"
+    android:title="@string/next"
+    app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!--- ######## Start: Zeplin Colors ######## -->
+    <color name="red">#d50000</color>
+    <color name="red_two">#f30000</color>
+    <color name="red_decision">#AC2100</color> <!---Decision artifact Color -->
+    <color name="ugly_yellow">#e1ba00</color>
+    <color name="grassy_green">#38b002</color>
+    <color name="nice_blue">#1a75b6</color> <!---Issue artifact Color -->
+    <color name="orange">#f57f06</color>
+    <color name="orange_qa">#CB740F</color> <!---QA artifact Color -->
+    <color name="light_burgundy">#9f3c7c</color> <!---Todo artifact Color -->
+    <color name="grape">#65347e</color>
+    <color name="grape_light">#9D72AF</color>
+    <color name="sap_green">#6a9411</color>
+    <color name="sap_green_requirement">#999D3B</color> <!---Requirement artifact Color -->
+    <color name="grey_note">#91A8BD</color>
+    <color name="darkish_blue">#004485</color>
+    <color name="water_blue">#1095bf</color>
+    <color name="teal_green">#259c8c</color>
+    <color name="dusk_blue">#263884</color>
+    <color name="pale_blue">#bee3f8</color>
+    <color name="pale_blue_1">#3792cb</color>
+    <!--<color name="ice_blue">#edeeee</color>-->
+    <color name="very_light_pink">#e0e0e0</color>
+    <!--<color name="very_light_pink_two">#cccccc</color>-->
+    <color name="brown_grey">#999999</color>
+    <color name="brownish_grey">#666666</color>
+    <color name="very_light_blue">#e5eaef</color>
+    <color name="very_light_blue_opacity">#33e5eaef</color>
+    <color name="pale_grey">#f6f8fb</color>
+    <!--- ######## End: Zeplin Colors ######## -->
+
+    <!-- ######### Start: Colors with Alpha ######## -->
+    <color name="white_85">#d9ffffff</color>
+    <color name="white_40">#66ffffff</color>
+    <color name="water_blue_30">#481095bf</color>
+    <color name="orange_30">#48f57f06</color>
+    <color name="red_77">#77d50000</color>
+    <color name="black_40">#64000000</color>
+    <color name="green_03">#086a9411</color>
+    <color name="darkish_blue_40">#64004485</color>
+    <!-- ######### End: Colors with Alpha ######## -->
+
+    <!-- ############ START: FEATURE COLOR ALIASES  ##################### -->
+    <color name="my_day">@color/nice_blue</color>
+    <color name="meetings">@color/water_blue</color>
+    <color name="conflicts">@color/orange</color>
+    <color name="conflicts_30">@color/orange_30</color>
+    <color name="todo">@color/light_burgundy</color>
+    <color name="presentation">@color/grape</color>
+    <color name="freetime">@color/sap_green</color>
+    <color name="parking_lot">@color/dusk_blue</color>
+    <color name="projects">@color/teal_green</color>
+    <color name="discussions">@color/grape_light</color>
+    <color name="objectives">@color/ugly_yellow</color>
+    <!-- ############ END: FEATURE COLOR ALIASES  ##################### -->
+
+    <color name="filterHighlight">#1A75B6</color>
+    <color name="accentColor">@color/nice_blue</color>
+    <color name="background">@android:color/white</color>
+    <color name="summary_divider">#649A9A9A</color>
+    <color name="darkish_blue_opacity">#33004485</color>
+    <color name="nice_blue_opacity">#331a75b6</color>
+
+    <color name="disabled_button">#d5d9df</color>
+    <color name="pressed_secondary">@color/darkish_blue</color>
+    <!-- TODO remove this color and review it's usages -->
+    <color name="pressed_cancel">#4a5769</color>
+
+    <!-- TODO check this color -->
+    <color name="transparent_orange">#11f57f06</color>
+
+    <!-- Not answered Meeting card background -->
+    <!-- TODO check this color -->
+    <color name="lightest_grey">#f8f8f9</color>
+
+    <color name="profile1">#64b5f6</color>
+    <color name="profile2">#9575cd</color>
+    <color name="profile3">#4db6ac</color>
+    <color name="profile4">#00bcd4</color>
+    <color name="profile5">#ffc107</color>
+    <color name="profile_nice_blue">#1a75b6</color>
+    <color name="profile_gray">#a1a1a1</color>
+
+    <!-- Chips -->
+    <color name="chips_dropdown_background_activated">@color/darkish_blue</color>
+    <color name="chips_dropdown_background_pressed">#ededed</color>
+    <color name="autocomplete_divider_color">#cccccc</color>
+    <color name="autocomplete_bottom_shadow_start">#40000000</color>
+    <color name="chip_background">#f6f6f6</color>
+    <color name="chip_background_invalid">@color/red_77</color>
+    <color name="chips_dropdown_text_default">#212121</color>
+    <color name="chips_dropdown_text_activated">@android:color/white</color>
+    <color name="chips_dropdown_text_highlighted">#757575</color>
+    <color name="chips_dropdown_permission_text">@color/darkish_blue</color>
+    <color name="background_grey">#f1f1f1</color>
+    <!-- Chips -->
+
+    <color name="colorPrimary">#0489D1</color>
+    <color name="darkWhite">#ede4e4e4</color>
+    <color name="incoming_call_decline_circle">#fff44336</color>
+    <color name="incoming_call_widget_bitmap">#ffffffff</color>
+    <color name="glowpad_outer_ring_color">#26ffffff</color>
+
+    <color name="selected_twilio_participant">#501A75B6</color>
+    <color name="video_overlay">#80000000</color>
+
+    <color name="light_red">#ffcccb</color>
+
+    <!-- Day View -->
+    <color name="hour_divider">#b0b0b0</color>
+    <color name="quarter_hour_divider">#e0e0e0</color>
+    <color name="transparent">#00000000</color>
+</resources>

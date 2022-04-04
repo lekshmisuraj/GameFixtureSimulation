@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_teamNameFragment">
+
+    <fragment
+        android:id="@+id/navigation_teamNameFragment"
+        android:name="com.game.gamefixturesimulation.presentation_layer.fragments.TeamsNameFragment"
+        android:label="@string/team_names"
+        tools:layout="@layout/fragment_team_names">
+
+        <action
+            android:id="@+id/action_teamNames_to_round16Fragment"
+            app:destination="@id/navigation_round16"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_round16"
+        android:name="com.game.gamefixturesimulation.presentation_layer.fragments.Round16Fragment"
+        android:label="@string/round_16"
+        tools:layout="@layout/fragment_round_16">
+
+        <action
+            android:id="@+id/action_round16Fragment_to_quarter_final"
+            app:destination="@id/navigation_quarter"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_quarter"
+        android:name="com.game.gamefixturesimulation.presentation_layer.fragments.QuarterFragment"
+        android:label="@string/quarter_final_1"
+        tools:layout="@layout/fragment_quarter">
+
+        <action
+            android:id="@+id/action_quarterFragment_to_semi_final"
+            app:destination="@id/navigation_semiFinal"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_semiFinal"
+        android:name="com.game.gamefixturesimulation.presentation_layer.fragments.SemiFinalFragment"
+        android:label="@string/semi_final_"
+        tools:layout="@layout/fragment_semi">
+
+        <action
+            android:id="@+id/action_semiFinalFragment_to_final"
+            app:destination="@id/navigation_final"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_final"
+        android:name="com.game.gamefixturesimulation.presentation_layer.fragments.FinalFragment"
+        android:label="@string/final_"
+        tools:layout="@layout/fragment_final"
+        >
+        <action
+            android:id="@+id/action_navigation_final_to_navigation_round16"
+            app:destination="@id/navigation_round16" />
+    </fragment>
+</navigation>

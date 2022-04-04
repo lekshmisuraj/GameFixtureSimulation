@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Soccer Fixture Simulation</string>
+    <string name="team_names">Groups and Teams</string>
+    <string name="round_16">Round of 16</string>
+    <string name="vs">vs</string>
+    <string name="quarter_final">Quarter Final {0}</string>
+    <string name="semi_final">Semi Final {0}</string>
+    <string name="semi_final_">Semi Final</string>
+    <string name="final_">Final</string>
+    <string name="start_over">Start Over</string>
+    <string name="next">Next</string>
+    <string name="select_group_winner_team">Select Group {0} Winner Team</string>
+    <string name="select_group_runner_team">Select Group {0} Runner Up Team</string>
+    <string name="select_winner_team">Select Winner Team</string>
+    <string name="select_runner_up_team">Select Runner Up Team</string>
+    <string name="quarter_final_1">Quarter Final</string>
+    <string name="select_winner_of_pre_quarter_1">Select Winner of Pre-Quarter Match {0}</string>
+    <string name="select_winner_of_pre_quarter_2">Select Winner of Pre-Quarter Match {0}</string>
+    <string name="select_winner_of_quarter_1">Select Winner of Quarter Final {0}</string>
+    <string name="select_winner_of_quarter_2">Select Winner of Quarter Final {0}</string>
+    <string name="select_winner_of_semi_1">Select Winner of Semi Final {0}</string>
+    <string name="select_winner_of_semi_2">Select Winner of Semi Final {0}</string>
+    <string name="pre_quarter_match">Pre-Quarter Match {0}</string>
+    <string name="congratulations_1">Your Prediction</string>
+    <string name="congratulations_2">2022 FIFA World Cup Final</string>
+    <string name="congratulations_3">{0} vs {1}</string>
+
+
+</resources>

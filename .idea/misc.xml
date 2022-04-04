@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../Library/Android/sdk/platforms/android-31/data/res/drawable/btn_dropdown.xml" value="0.34739583333333335" />
+        <entry key="../../Library/Android/sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.33125" />
+        <entry key="../../Library/Android/sdk/platforms/android-31/data/res/layout/simple_spinner_item.xml" value="0.33125" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_flag_de.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/drawable/ic_airplane.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/drawable/ic_argentina.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_belgium.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_bell.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_brazil.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_bullhorn.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_clubs.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_croatia.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_denmark.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_dribbble.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/drawable/ic_ecuador.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_england.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_football.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_football_strike.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_france.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_germany.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_iran.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/drawable/ic_lifebuoy.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_mexico.xml" value="0.17604166666666668" />
+        <entry key="app/src/main/res/drawable/ic_netherlands.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_pacman.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_qatar.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_senegal.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_serbia.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_serbia__3_.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_smile.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_south_korea.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_spain.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_spoon_knife.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_switzerland.xml" value="0.321875" />
+        <entry key="app/src/main/res/drawable/ic_truck.xml" value="0.321875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12207792207792208" />
+        <entry key="app/src/main/res/layout/bg_roundrect_ripple_border.xml" value="0.12552083333333333" />
+        <entry key="app/src/main/res/layout/fragment_final.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_quarter.xml" value="0.3015625" />
+        <entry key="app/src/main/res/layout/fragment_round_16.xml" value="0.33125" />
+        <entry key="app/src/main/res/layout/fragment_semi.xml" value="0.11875" />
+        <entry key="app/src/main/res/layout/fragment_team_names.xml" value="0.33125" />
+        <entry key="app/src/main/res/layout/item_QSF.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_final.xml" value="0.3015625" />
+        <entry key="app/src/main/res/layout/item_header.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/item_item.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_qsf.xml" value="0.3015625" />
+        <entry key="app/src/main/res/layout/item_semi.xml" value="0.3015625" />
+        <entry key="app/src/main/res/layout/item_team.xml" value="0.33125" />
+        <entry key="app/src/main/res/layout/menu.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/spinner_layout.xml" value="0.33125" />
+        <entry key="app/src/main/res/menu/menu_back.xml" value="0.75" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17604166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
